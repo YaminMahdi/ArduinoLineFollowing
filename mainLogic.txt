@@ -1,0 +1,3 @@
+//forword 
+digitalWrite(rightMotorPin1,LOW);
+digitalWrite(rightMotorPin2,HIGH);    
